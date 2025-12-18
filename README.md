@@ -1,7 +1,7 @@
 # Fake News Detection System Using Machine Learning and Deep Learning
 
 ## Team Member
-- M-Moeen
+- Muhammad Moeen Ul Haq Farooqi
 ---
 
 ## Abstract
